@@ -14,8 +14,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project 
-|![Single face detection](https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/single%20face.PNG)|![Multiple face Detection]
-(https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/multiple%20faces.PNG)|
+|![Single face detection](https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/single%20face.PNG)|![Multiple face Detection](https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/multiple%20faces.PNG)|
 |:---:|:---:|
 |Single face detection|Multile face Detection|  
 * Facial landmarks are used to localize and represent salient regions of the face, such as:
