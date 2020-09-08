@@ -15,11 +15,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project 
 * Facial landmarks are used to localize and represent salient regions of the face, such as:
-  1.Eyes
-  2.Eyebrows
-  3.Nose
-  4.Mouth
-  5.Jawline
+  1. Eyes
+  2. Eyebrows
+  3. Nose
+  4. Mouth
+  5. Jawline
 **Steps followed in this process:**
 
 ### File Structure
