@@ -14,9 +14,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project 
-|![Single face detection](https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/single%20face.PNG)|![Multiple face Detection](https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/multiple%20faces.PNG)|
-|:---:|:---:|
-|Single face detection|Multile face Detection|  
+|![Single face detection](https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/single%20face.PNG)|![Multiple face Detection](https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/multiple%20faces.PNG)|![Visualizing the 68 facial landmark coordinates](https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/HOG.PNG)|
+|:---:|:---:|:---:|
+|Single face detection|Multile face Detection|Visualizing the 68 facial landmark coordinates|  
 * Facial landmarks are used to localize and represent salient regions of the face, such as:
   1. Eyes
   2. Eyebrows
